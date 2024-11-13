@@ -74,4 +74,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-survival-prediction.git
+   git clone https://github.com/arghads9177/titanic-survival-prediction.git
